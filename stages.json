@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Stage 1: Create Your First Wallet",
+    "description": "Learn how to set up a crypto wallet like MetaMask or Phantom to manage your assets safely."
+  },
+  {
+    "title": "Stage 2: Buy Your First Crypto",
+    "description": "Understand how to use an exchange to buy Bitcoin or Ethereum and transfer them to your wallet."
+  },
+  {
+    "title": "Stage 3: Learn About NFTs",
+    "description": "Explore how digital art and collectibles live on the blockchain."
+  },
+  {
+    "title": "Stage 4: Try DeFi",
+    "description": "Discover decentralized finance apps that let you earn, lend, or trade without banks."
+  },
+  {
+    "title": "Stage 5: Stay Secure",
+    "description": "Learn about scams, private keys, and how to keep your crypto safe."
+  }
+]
